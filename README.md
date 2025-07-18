@@ -1,6 +1,6 @@
 # Spam-Mail-Prediction-System
-🔍 Objective:
- To create a system that accurately classifies emails as either Spam or Ham (Not Spam), improving email safety and user productivity.
+# 🔍 Objective:
+## To create a system that accurately classifies emails as either Spam or Ham (Not Spam), improving email safety and user productivity.
 
 📁 Dataset Overview:
 Dataset: mail_data.csv containing 5,572 email records.
